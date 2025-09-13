@@ -1,4 +1,4 @@
-📘 Data Structures & Algorithms Practice
+# 📘 Data Structures & Algorithms Practice
 
 This repository contains my personal implementations and practice problems for Data Structures and Algorithms (DSA) in the following doc:
 
@@ -6,7 +6,7 @@ This repository contains my personal implementations and practice problems for D
 
 It serves as a learning hub to strengthen problem-solving skills and prepare for coding interviews, competitive programming, and technical assessments.
 
-🚀 Contents
+## 🚀 Contents
 
 Data Structures
 
@@ -38,13 +38,13 @@ Backtracking
 
 Graph Algorithms (Dijkstra, Floyd-Warshall, Kruskal, Prim, etc.)
 
-🛠 Languages Used
+## 🛠 Languages Used
 
-Python 🐍
+#### Python 🐍
 
 (Optional: add others if you plan to, e.g. C++ / Java / JavaScript)
 
-🎯 Goals
+## 🎯 Goals
 
 Practice common interview problems
 
