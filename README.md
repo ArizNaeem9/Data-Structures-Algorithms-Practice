@@ -1,7 +1,9 @@
 📘 Data Structures & Algorithms Practice
 
 This repository contains my personal implementations and practice problems for Data Structures and Algorithms (DSA) in the following doc:
-**Data Structures and Algorithms** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0.)
+
+**Data Structures and Algorithms** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0.).
+
 It serves as a learning hub to strengthen problem-solving skills and prepare for coding interviews, competitive programming, and technical assessments.
 
 🚀 Contents
